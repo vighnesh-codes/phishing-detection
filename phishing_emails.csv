@@ -1,0 +1,21 @@
+email_text,label
+"Congratulations! You won a prize. Click http://fake-prize-example.com to claim your reward.",phishing
+"Your bank account is suspended. Verify your password immediately at http://account-example.invalid.",phishing
+"URGENT! Your account will be blocked. Click here to verify your identity.",phishing
+"Send your password immediately to prevent account closure.",phishing
+"Your package delivery has failed. Pay the fee using this suspicious link.",phishing
+"Your electricity bill is overdue. Pay immediately to avoid disconnection.",phishing
+"Dear customer, your account has been compromised. Login now to secure it.",phishing
+"Click here to claim your free gift card before the offer expires.",phishing
+"Your salary payment has been delayed. Confirm your banking credentials.",phishing
+"Update your account details immediately to avoid permanent suspension.",phishing
+"Hello, please find the meeting agenda attached for tomorrow's discussion.",safe
+"Your order has been shipped. You can track it through our official website.",safe
+"Thank you for attending the meeting. Please find the minutes attached.",safe
+"Your monthly bank statement is now available through your banking application.",safe
+"Reminder: Your appointment is scheduled for tomorrow at 10 AM.",safe
+"Please review the project report and share your feedback.",safe
+"Your electricity bill payment was successful. Thank you.",safe
+"The college examination timetable has been published on the student portal.",safe
+"Your password was changed successfully. Contact support if you did not make this change.",safe
+"Thank you for your purchase. Your receipt is attached to this email.",safe
